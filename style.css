@@ -77,6 +77,10 @@ body * {
   transform: translateY(-50%);
 }
 
+#switch button:hover {
+  cursor: pointer;
+}
+
 .light #switch button {
   left: initial;
   right: 0;
